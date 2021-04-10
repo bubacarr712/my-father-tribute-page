@@ -1,0 +1,59 @@
+body{
+    background-color: silver;
+    color:black;
+    background-color:silver;
+    font-family:serif;
+}
+h1{
+    text-align:center;
+    background-color:silver;
+    padding: 20px;
+}
+h3{
+    text-transform: uppercase;
+    font-size: larger;
+    text-align:center;
+}
+.tribute-info{
+    width:75%;
+    margin:0 auto;
+    font-family: sans-serif;
+}
+#img-info{
+    width:90%;
+    margin:0 auto;
+    background-color:whitesmoke;
+}
+#img-div{
+    width: 50%;
+    margin:0 auto;
+    padding-top: 10px;
+
+}
+img{
+    border-radius:10px;
+    max-width: 100%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto   
+}
+#vid-container{
+    width: 50%;
+    margin: 0 auto;
+    background-color:white;
+}
+video{
+    width:100%;
+}
+.info{
+    background-color:silver;
+}
+p{
+    text-align: center;
+    font-size:larger;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+h4{
+    text-align: center;
+}
